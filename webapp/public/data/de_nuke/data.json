@@ -1,0 +1,13 @@
+{
+  "x": -3453,
+  "y": 2887,
+  "scale": 7,
+  "levels": [
+    {
+      "name": "lower",
+      "image": "radar_lower.png",
+      "altitudeMin": -10000,
+      "altitudeMax": -495
+    }
+  ]
+}
